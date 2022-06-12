@@ -4,8 +4,11 @@
   padding: 0;
 }
 body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   text-align: center;
-  background:rgb(209, 204, 204); 
+  background: rgb(209, 204, 204);
 }
 canvas {
   background: rgb(243, 235, 235);
